@@ -1,0 +1,8 @@
+receipes name : biriyani
+incredients :
+        rice : 2kg
+        ghee : 100g
+        chikken : 1kg
+        onion:500g
+        gineger :100g
+        garlic : 100g
